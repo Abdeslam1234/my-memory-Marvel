@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap");
+
+* {
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  background-image: url("./assets/images/bg-cover.png");
+}
+h1 {
+  font-family: "Quicksand", sans-serif;
+}
